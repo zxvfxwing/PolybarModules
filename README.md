@@ -1,0 +1,1 @@
+# polybar_per-cores_temperatures
